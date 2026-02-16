@@ -9,7 +9,7 @@
   ],
   "require": {
     "php": "^8.2",
-    "laravelcollective/html": "^10.0",
+    "konekt/html": "^6.5",
     "league/csv": "^9.0"
   },
   "require-dev": {
